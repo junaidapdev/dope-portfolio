@@ -4,24 +4,18 @@ const Hero = () => {
   return (
     <div className="Hero">
 
-      {/* <div className="p-1 shadow-xl bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 rounded-2xl"> */}
-      <div className="p-1 rounded-2xl">
-        <div className="flex mt-5 flex-col">
-          <div className="w-[80px] sm:w-[176px] relative p-0 mb-8 sm:mb-0 mr-auto items-center	">
-            <img
-              src={avatar}
-              className="rounded-full filter ml-0 scale-75"
-              alt=""
-            />
-          </div>
-          <h1 className="font-bold  text-3xl md:text-5xl tracking-tight mb-1 text-[#1d1d1d]">
+
+<div className="mt-16 flex flex-col-reverse sm:flex-row items-start">
+        <div className="flex flex-col pr-8">
+          <h1 className="font-bold text-3xl md:text-5xl tracking-tight mb-1 text-black">
             Mohammed Junaid
           </h1>
-          <h3 className="text:xl text-gray-700 mb-4">MERN Stack Developer</h3>
-          <p className="text-gray-600 text-gray-400">
-            I build interactive and beautiful websites with React. I help web
-            developers & designers to find the best resources and tips to save
-            their hours of research.{" "}
+          <h3 className="text:xl text-gray-700 mb-4">
+            MERN Stack Developer
+          </h3>
+          <p className="text-gray-600 dark:text-gray-400">
+            I build interactive and beautiful websites with React. <br />I help web
+            developers & designers to find the best <br /> resources.{" "}
           </p>
           {/* <div>
             <Buttons className="bg-gray-600 gap-2 text-white px-6 ml-0">
@@ -32,9 +26,15 @@ const Hero = () => {
             </Buttons>
           </div> */}
         </div>
-        {/* </div> */}
-        {/* <span class="absolute max-w-2xl mx-auto px-4 inset-x-0 mt-33 h-2  bg-gradient-to-r from-green-300 via-blue-500 to-purple-600"></span> */}
+        <div className="w-[80px] sm:w-[176px] relative mb-8 sm:mb-0 mr-auto items-center	">
+        <img
+              src={avatar}
+              className="rounded-full filter ml-0 scale-115"
+              alt=""
+            />
+        </div>
       </div>
+
       <div>
         <h3 className="font-bold text-2xl md:text-4xl tracking-tight mt-12 mb-6 text-black">
           Projects
