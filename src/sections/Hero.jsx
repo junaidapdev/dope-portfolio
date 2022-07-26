@@ -40,7 +40,7 @@ const Hero = () => {
           Projects
         </h3>
         <div className="flex flex-col gap-4">
-          <div className="p-1 bg-gradient-to-tr from-[#6EE7B7] via-[#3B82F6] to-[#9333EA] rounded-lg">
+          <div className="p-1  rounded-lg">
             <div className="p-6 gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-200 shadow-md border-gray-700">
               <a href="#">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">
@@ -81,8 +81,8 @@ const Hero = () => {
               </div>
             </div>
           </div>
-          <div className="p-1 bg-gradient-to-tr from-[#FDE68A] via-[#FCA5A5] to-[#FECACA] rounded-lg">
-            <div className="p-6 max-w-2xl items-center bg-white rounded-lg border border-gray-200 shadow-md">
+          <div className="p-1 rounded-lg">
+            <div className="p-6 max-w-2xl items-center bg-white rounded-lg border border-gray-700 shadow-md">
               <a href="#">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">
                   Smuffy
@@ -122,8 +122,8 @@ const Hero = () => {
               </div>
             </div>
           </div>
-          <div className="p-1 bg-gradient-to-tr from-[#D8B4FE] to-[#818CF8] rounded-lg">
-            <div className="p-6 max-w-2xl items-center bg-white rounded-lg border border-gray-200 shadow-md">
+          <div className="p-1 rounded-lg">
+            <div className="p-6 max-w-2xl items-center bg-white rounded-lg border border-gray-700 shadow-md">
               <a href="#">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">
                   Contact Manager
