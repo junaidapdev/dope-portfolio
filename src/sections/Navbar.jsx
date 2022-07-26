@@ -5,17 +5,18 @@ import '../index.css'
 const Navbar = () => {
   return (
     <div className="navbar">
-      <nav className="border-gray-200 px-2 sm:px-4 py-2.5 rounded">
+      {/* <nav className="border-gray-200 px-2 sm:px-4 py-2.5 rounded"> */}
+      <nav className="flex items-center justify-between w-full relative max-w-2xl border-gray-200 mx-auto pt-8 pb-8 sm:pb-16 text-gray-900 bg-gray-[#f5f5f5] bg-opacity-60">
         <div className="container flex flex-wrap justify-between items-center mx-auto">
           {/* <div
             className=""
             id="navbar-cta"
           > */}
-            <ul className="flex gap-4">
+            <ul className="flex gap-4 mt-2">
               <li>
                 <NavLink
                   to="/"
-                  className="font-semibold text-gray-400 hover:text-gray-500 hover:bg-gray-400 hover:rounded-border"
+                  className="font-semibold text-gray-400 p-2 sm:px-3 sm:py-2 rounded-lg hover:text-gray-500 hover:bg-gray-200 transition-all"
                   aria-current="page"
                 >
                   Home
@@ -25,7 +26,7 @@ const Navbar = () => {
             <li>
                 <NavLink
                   to="/products"
-                  className="font-smibold text-gray-400 hover:text-gray-500 hover:bg-gray-400 hover:rounded-border"
+                  className="font-semibold text-gray-400 p-2 sm:px-3 sm:py-2 rounded-lg hover:text-gray-500 hover:bg-gray-200 transition-all"
                 >
                   Products
                 </NavLink>
@@ -34,7 +35,7 @@ const Navbar = () => {
               <li>
                 <NavLink
                   to="/blogs"
-                  className="font-semibold text-gray-400 hover:text-gray-500 hover:bg-gray-400 hover:rounded-border"
+                  className="font-semibold text-gray-400 p-2 sm:px-3 sm:py-2 rounded-lg hover:text-gray-500 hover:bg-gray-200 transition-all"
                 >
                   Blogs
                 </NavLink>
@@ -43,7 +44,7 @@ const Navbar = () => {
               <li>
                 <NavLink
                   to="/about"
-                  className="font-semibold text-gray-400 hover:text-gray-500 hover:bg-gray-400 hover:rounded-border"
+                  className="font-semibold text-gray-400 p-2 sm:px-3 sm:py-2 rounded-lg hover:text-gray-500 hover:bg-gray-200 transition-all"
                 >
                   About
                 </NavLink>

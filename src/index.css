@@ -11,5 +11,6 @@
 }
 
 nav a.active {
-  background-color: aqua;
+  color: #374151;
+  font-weight: 600;
 }
