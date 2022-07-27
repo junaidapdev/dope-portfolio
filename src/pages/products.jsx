@@ -14,9 +14,9 @@ const Products = () => {
       </h3>
 
       <div className="flex flex-col  gap-4">
-        <div className="p-6 flex gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-200 shadow-md border-gray-700">
+        <div className="p-6 flex gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
           <div className="w-full">
-            <h1 className="text-2xl font-bold text-gray-800">
+            <h1 className="text-xl font-bold text-gray-800">
               Goldmine for Developers, Designers & Creators.
             </h1>
 
@@ -98,9 +98,9 @@ const Products = () => {
             </div>
           </div>
         </div>
-        <div className="p-6 flex flex-row gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-200 shadow-md border-gray-700">
+        <div className="p-6 flex flex-row gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
           <div>
-            <h1 className="text-2xl font-bold text-gray-800">
+            <h1 className="text-xl font-bold text-gray-800">
               Complete FullStack Developer Roadmap 2022 | 300+ Resources
             </h1>
 
@@ -184,7 +184,7 @@ const Products = () => {
           </div>
         </div>
 
-        <div className="p-6 flex flex-row gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-200 shadow-md border-gray-700">
+        <div className="p-6 flex flex-row gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
           {/* <img
             src={projectkit}
             className="w-1/3 flex"
@@ -193,7 +193,7 @@ const Products = () => {
           /> */}
 
           <div>
-            <h1 className="text-2xl font-bold text-gray-800">
+            <h1 className="text-xl font-bold text-gray-800">
               Project Building Tool Kit
             </h1>
 
@@ -276,9 +276,9 @@ const Products = () => {
           </div>
         </div>
 
-        <div className="p-6 flex flex-row gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-200 shadow-md border-gray-700">
+        <div className="p-6 flex flex-row gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
           <div className="w-full">
-            <h1 className="text-2xl font-bold text-gray-800">
+            <h1 className="text-xl font-bold text-gray-800">
               Learn & Master Javascript for FREE
             </h1>
 
@@ -359,9 +359,9 @@ const Products = () => {
           </div>
         </div>
 
-        <div className="p-6 flex flex-row gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-200 shadow-md border-gray-700">
+        <div className="p-6 flex flex-row gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
           <div>
-            <h1 className="text-2xl font-bold text-gray-800">
+            <h1 className="text-xl font-bold text-gray-800">
               #100daysofCode Notion Template
             </h1>
 

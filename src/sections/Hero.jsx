@@ -13,9 +13,8 @@ const Hero = () => {
           <h3 className="text:xl text-gray-700 mb-4">
             MERN Stack Developer
           </h3>
-          <p className="text-gray-600 dark:text-gray-400">
-            I build interactive and beautiful websites with React. <br />I help web
-            developers & designers to find the best <br /> resources.{" "}
+          <p className="text-gray-600">
+            I build interactive and beautiful websites with React & creates content on Twitter.
           </p>
           {/* <div>
             <Buttons className="bg-gray-600 gap-2 text-white px-6 ml-0">
@@ -42,7 +41,7 @@ const Hero = () => {
         </h3>
         <div className="flex flex-col gap-4">
           <div className="p-1  rounded-lg">
-            <div className="p-6 gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-200 shadow-md border-gray-700">
+            <div className="p-6 gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
               <a href="#">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">
                   CampGenie🔥
@@ -83,7 +82,7 @@ const Hero = () => {
             </div>
           </div>
           <div className="p-1 rounded-lg">
-            <div className="p-6 max-w-2xl items-center bg-white rounded-lg border border-gray-700 shadow-md">
+            <div className="p-6 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
               <a href="#">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">
                   Smuffy
@@ -124,7 +123,7 @@ const Hero = () => {
             </div>
           </div>
           <div className="p-1 rounded-lg">
-            <div className="p-6 max-w-2xl items-center bg-white rounded-lg border border-gray-700 shadow-md">
+            <div className="p-6 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
               <a href="#">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">
                   Contact Manager

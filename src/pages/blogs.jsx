@@ -9,9 +9,9 @@ const Blogs = () => {
       </h3>
 
       <div className="flex flex-col  gap-4">
-        <div className="p-6 flex gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
+        <div className="p-6 flex gap-4 px-4 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
           <div className="w-full">
-            <h1 className="text-2xl font-bold text-gray-800">
+            <h1 className="text-xl font-bold text-gray-800">
               What to Learn? - Before Starting Web Dev🚀
             </h1>
 
@@ -30,7 +30,7 @@ const Blogs = () => {
         </div>
         <div className="p-6 flex gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
           <div className="w-full">
-            <h1 className="text-2xl font-bold text-gray-800">
+            <h1 className="text-xl font-bold text-gray-800">
               Top 22 GitHub Repos for JavaScript Developers 🤩
             </h1>
 
@@ -49,7 +49,7 @@ const Blogs = () => {
         </div>
         <div className="p-6 flex gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
           <div className="w-full">
-            <h1 className="text-2xl font-bold text-gray-800">
+            <h1 className="text-xl font-bold text-gray-800">
               25 Must Use Insane Websites for Content creators🔥
             </h1>
 
@@ -68,7 +68,7 @@ const Blogs = () => {
         </div>
         <div className="p-6 flex gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
           <div className="w-full">
-            <h1 className="text-2xl font-bold text-gray-800">
+            <h1 className="text-xl font-bold text-gray-800">
               Top 10 Javascript Array Methods🔥 -- Decoded.
             </h1>
 
