@@ -51,21 +51,22 @@ const Hero = () => {
                 Here are the biggest enterprise technology acquisitions of 2021
                 so far, in reverse chronological order.
               </p>
-              <div className="flex">
-                <span className="bg-purple-100 text-purple-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-purple-200 dark:text-purple-900">
+              <div className="flex flex-wrap gap-1.5">
+                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   Bootstrap
                 </span>
-                <span className="bg-green-100 text-green-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-green-200 dark:text-green-900">
-                  NodeJS
-                </span>
-                <span className="bg-purple-100 text-purple-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-purple-200 dark:text-purple-900">
+                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   ExpressJS
                 </span>
-                {/* <span className="bg-green-100 text-green-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-green-200 dark:text-green-900">
+                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                  NodeJS
+                </span>
+                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   MongoDB
-                </span> */}
+                </span>
+                
               </div>
-              <div className="flex gap-3 mt-3">
+              <div className="flex gap-3 mt-4">
                 <a
                   href="#"
                   className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-gray-900 bg-white  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#000]"
@@ -73,7 +74,7 @@ const Hero = () => {
                  🚀 Website 
                 </a>
                 <a
-                  href="#"
+                  href="https://github.com/junaidapdev/camp_genie"
                   className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-gray-900 bg-white  rounded-lg hover:border-[#000]"
                 >
                   🔗 Github 
@@ -92,21 +93,28 @@ const Hero = () => {
                 Here are the biggest enterprise technology acquisitions of 2021
                 so far, in reverse chronological order.
               </p>
-              <div className="flex">
-                <span className="bg-purple-100 text-purple-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-purple-200 dark:text-purple-900">
-                  Bootstrap
+              <div className="flex flex-wrap gap-1.5">
+              <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                  React
                 </span>
-                <span className="bg-green-100 text-green-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-green-200 dark:text-green-900">
-                  NodeJS
+                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                  Express
                 </span>
-                <span className="bg-purple-100 text-purple-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-purple-200 dark:text-purple-900">
-                  ExpressJS
+                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                  Node
                 </span>
-                {/* <span className="bg-green-100 text-green-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-green-200 dark:text-green-900">
+                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   MongoDB
-                </span> */}
+                </span>
+                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                  Stripe 
+                </span>
+                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                  PayPal 
+                </span>
+                
               </div>
-              <div className="flex gap-3 mt-3">
+              <div className="flex gap-3 mt-4">
               <a
                   href="#"
                   className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-gray-900 bg-white  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#000]"
@@ -114,7 +122,7 @@ const Hero = () => {
                  🚀 Website 
                 </a>
                 <a
-                  href="#"
+                  href="https://github.com/junaidapdev/ecommerce"
                   className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-gray-900 bg-white  rounded-lg hover:border-[#000]"
                 >
                   🔗 Github 
@@ -126,28 +134,29 @@ const Hero = () => {
             <div className="p-6 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
               <a href="#">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">
-                  Contact Manager
+                  Workout Buddy
                 </h5>
               </a>
               <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
-                Here are the biggest enterprise technology acquisitions of 2021
-                so far, in reverse chronological order.
+                This is a website to add different workouts.
               </p>
-              <div className="flex">
-                <span className="bg-purple-100 text-purple-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-purple-200 dark:text-purple-900">
-                  Bootstrap
+              <div className="flex flex-wrap gap-1.5">
+              <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                  React
                 </span>
-                <span className="bg-green-100 text-green-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-green-200 dark:text-green-900">
-                  NodeJS
+                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                  Express
                 </span>
-                <span className="bg-purple-100 text-purple-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-purple-200 dark:text-purple-900">
-                  ExpressJS
+                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                  Node
                 </span>
-                {/* <span className="bg-green-100 text-green-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-green-200 dark:text-green-900">
+                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   MongoDB
-                </span> */}
+                </span>
+              
+                
               </div>
-              <div className="flex gap-3 mt-3">
+              <div className="flex gap-3 mt-4">
               <a
                   href="#"
                   className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-gray-900 bg-white  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#000]"
@@ -155,7 +164,7 @@ const Hero = () => {
                  🚀 Website 
                 </a>
                 <a
-                  href="#"
+                  href="https://github.com/junaidapdev/Workout-Buddy"
                   className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-gray-900 bg-white  rounded-lg hover:border-[#000]"
                 >
                   🔗 Github 
@@ -166,7 +175,7 @@ const Hero = () => {
          
           
         </div>
-        <p className="md:text-2xl mt-8 justify-center	text-xl flex text-gray-600">
+        <p className="md:text-2xl mt-8 justify-center	text-lg flex text-gray-600">
         If you'd like to talk, just shoot an email
       </p>
       <div className="text-lg flex items-center justify-center w-max mx-auto px-10 my-4 font-semibold border-2 text-gray-500 bg-white- p-1 rounded-xl">
