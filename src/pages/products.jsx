@@ -9,14 +9,14 @@ import Footer from "../sections/Footer";
 const Products = () => {
   return (
     <div>
-      <h3 className="font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black">
+      <h3 className="font-bold text-md md:text-5xl tracking-tight mb-4 text-white">
         Products
       </h3>
 
       <div className="flex flex-col  gap-4">
-        <div className="p-6 flex gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
+        <div className="p-6 flex gap-4 max-w-2xl items-center bg-[#101010] rounded-lg border border-white">
           <div className="w-full">
-            <h1 className="text-xl font-bold text-gray-800">
+            <h1 className="text-xl font-bold text-white">
               Goldmine for Developers, Designers & Creators.
             </h1>
 
@@ -83,7 +83,7 @@ const Products = () => {
             </div>
 
             <div className="flex justify-between mt-3 item-center">
-              <h1 className="text-lg p-1 border border-black font-bold text-gray-700 md:text-xl text-gray uppercase transition-colors duration-200 transform rounded focus:outline-none focus:bg-gray-700">
+              <h1 className="text-lg p-1 border border-white font-bold text-white md:text-xl text-gray uppercase transition-colors duration-200 transform rounded focus:outline-none focus:bg-gray-700">
                 $3
               </h1>
               <a
@@ -91,16 +91,16 @@ const Products = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <button className="px-2 py-1 text-xs font-bold text-white uppercase transition-colors duration-200 transform bg-gray-800 rounded dark:bg-gray-700 hover:bg-gray-700 dark:hover:bg-gray-600 focus:outline-none focus:bg-gray-700 dark:focus:bg-gray-600">
+                <button className="px-2 py-1 text-xs font-bold text-[#101010] hover:text-white uppercase transition-colors duration-200 transform bg-white rounded hover:bg-[#101010]  focus:outline-none focus:bg-gray-700 dark:focus:bg-gray-600">
                   Unlock now 🚀
                 </button>
               </a>
             </div>
           </div>
         </div>
-        <div className="p-6 flex flex-row gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
+        <div className="p-6 flex gap-4 max-w-2xl items-center bg-[#101010] rounded-lg border border-white">
           <div>
-            <h1 className="text-xl font-bold text-gray-800">
+          <h1 className="text-xl font-bold text-white">
               Complete FullStack Developer Roadmap 2022 | 300+ Resources
             </h1>
 
@@ -168,7 +168,7 @@ const Products = () => {
             </div>
 
             <div className="flex justify-between mt-3 item-center">
-              <h1 className="text-lg p-1 border border-black font-bold text-gray-700 md:text-xl text-gray transition-colors duration-200 transform rounded focus:outline-none focus:bg-gray-700">
+            <h1 className="text-lg p-1 border border-white font-bold text-white md:text-xl text-gray uppercase transition-colors duration-200 transform rounded focus:outline-none focus:bg-gray-700">
                 Free
               </h1>
               <a
@@ -176,7 +176,7 @@ const Products = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <button className="px-2 py-1 text-xs font-bold text-white uppercase transition-colors duration-200 transform bg-gray-800 rounded dark:bg-gray-700 hover:bg-gray-700 dark:hover:bg-gray-600 focus:outline-none focus:bg-gray-700 dark:focus:bg-gray-600">
+                <button className="px-2 py-1 text-xs font-bold text-[#101010] hover:text-white uppercase transition-colors duration-200 transform bg-white rounded hover:bg-[#101010]  focus:outline-none focus:bg-gray-700 dark:focus:bg-gray-600">
                   Unlock now 🚀
                 </button>
               </a>
@@ -184,16 +184,10 @@ const Products = () => {
           </div>
         </div>
 
-        <div className="p-6 flex flex-row gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
-          {/* <img
-            src={projectkit}
-            className="w-1/3 flex"
-            alt=""
-            // style="background-image: url('https://images.unsplash.com/photo-1494726161322-5360d4d0eeae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80')"
-          /> */}
+        <div className="p-6 flex gap-4 max-w-2xl items-center bg-[#101010] rounded-lg border border-white">
 
           <div>
-            <h1 className="text-xl font-bold text-gray-800">
+          <h1 className="text-xl font-bold text-white">
               Project Building Tool Kit
             </h1>
 
@@ -260,7 +254,7 @@ const Products = () => {
             </div>
 
             <div className="flex justify-between mt-3 item-center">
-              <h1 className="text-lg p-1 border border-black font-bold text-gray-700 md:text-xl text-gray transition-colors duration-200 transform rounded focus:outline-none focus:bg-gray-700">
+            <h1 className="text-lg p-1 border border-white font-bold text-white md:text-xl text-gray uppercase transition-colors duration-200 transform rounded focus:outline-none focus:bg-gray-700">
                 Free
               </h1>
               <a
@@ -268,7 +262,7 @@ const Products = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <button className="px-2 py-1 text-xs font-bold text-white uppercase transition-colors duration-200 transform bg-gray-800 rounded dark:bg-gray-700 hover:bg-gray-700 dark:hover:bg-gray-600 focus:outline-none focus:bg-gray-700 dark:focus:bg-gray-600">
+                <button className="px-2 py-1 text-xs font-bold text-[#101010] hover:text-white uppercase transition-colors duration-200 transform bg-white rounded hover:bg-[#101010]  focus:outline-none focus:bg-gray-700 dark:focus:bg-gray-600">
                   Unlock now 🚀
                 </button>
               </a>
@@ -276,9 +270,9 @@ const Products = () => {
           </div>
         </div>
 
-        <div className="p-6 flex flex-row gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
+        <div className="p-6 flex gap-4 max-w-2xl items-center bg-[#101010] rounded-lg border border-white">
           <div className="w-full">
-            <h1 className="text-xl font-bold text-gray-800">
+          <h1 className="text-xl font-bold text-white">
               Learn & Master Javascript for FREE
             </h1>
 
@@ -343,7 +337,7 @@ const Products = () => {
             </div>
 
             <div className="flex justify-between mt-3 item-center">
-              <h1 className="text-lg p-1 border border-black font-bold text-gray-700 md:text-xl text-gray transition-colors duration-200 transform rounded focus:outline-none focus:bg-gray-700">
+            <h1 className="text-lg p-1 border border-white font-bold text-white md:text-xl text-gray uppercase transition-colors duration-200 transform rounded focus:outline-none focus:bg-gray-700">
                 Free
               </h1>
               <a
@@ -351,7 +345,7 @@ const Products = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <button className="px-2 py-1 text-xs font-bold text-white uppercase transition-colors duration-200 transform bg-gray-800 rounded dark:bg-gray-700 hover:bg-gray-700 dark:hover:bg-gray-600 focus:outline-none focus:bg-gray-700 dark:focus:bg-gray-600">
+                <button className="px-2 py-1 text-xs font-bold text-[#101010] hover:text-white uppercase transition-colors duration-200 transform bg-white rounded hover:bg-[#101010]  focus:outline-none focus:bg-gray-700 dark:focus:bg-gray-600">
                   Unlock now 🚀
                 </button>
               </a>
@@ -359,9 +353,9 @@ const Products = () => {
           </div>
         </div>
 
-        <div className="p-6 flex flex-row gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
+        <div className="p-6 flex gap-4 max-w-2xl items-center bg-[#101010] rounded-lg border border-white">
           <div>
-            <h1 className="text-xl font-bold text-gray-800">
+          <h1 className="text-xl font-bold text-white">
               #100daysofCode Notion Template
             </h1>
 
@@ -430,7 +424,7 @@ const Products = () => {
             </div>
 
             <div className="flex justify-between mt-3 item-center">
-              <h1 className="text-lg p-1 border border-black font-bold text-gray-700 md:text-xl text-gray transition-colors duration-200 transform rounded focus:outline-none focus:bg-gray-700">
+            <h1 className="text-lg p-1 border border-white font-bold text-white md:text-xl text-gray uppercase transition-colors duration-200 transform rounded focus:outline-none focus:bg-gray-700">
                 Free
               </h1>
               <a
@@ -438,7 +432,7 @@ const Products = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <button className="px-2 py-1 text-xs font-bold text-white uppercase transition-colors duration-200 transform bg-gray-800 rounded dark:bg-gray-700 hover:bg-gray-700 dark:hover:bg-gray-600 focus:outline-none focus:bg-gray-700 dark:focus:bg-gray-600">
+                <button className="px-2 py-1 text-xs font-bold text-[#101010] hover:text-white uppercase transition-colors duration-200 transform bg-white rounded hover:bg-[#101010]  focus:outline-none focus:bg-gray-700 dark:focus:bg-gray-600">
                   Unlock now 🚀
                 </button>
               </a>
