@@ -16,7 +16,7 @@ const Navbar = () => {
               <li>
                 <NavLink
                   to="/"
-                  className="font-semibold text-gray-400 p-2 sm:px-3 sm:py-2 rounded-lg hover:text-gray-500 hover:bg-gray-200 transition-all"
+                  className="font-semibold text-[#444444]  p-2 sm:px-3 sm:py-2 rounded-lg hover:bg-[#333333] transition-all"
                   aria-current="page"
                 >
                   Home
@@ -26,7 +26,7 @@ const Navbar = () => {
             <li>
                 <NavLink
                   to="/products"
-                  className="font-semibold text-gray-400 p-2 sm:px-3 sm:py-2 rounded-lg hover:text-gray-500 hover:bg-gray-200 transition-all"
+                  className="font-semibold text-[#444444]  p-2 sm:px-3 sm:py-2 rounded-lg hover:bg-[#333333] transition-all"
                 >
                   Products
                 </NavLink>
@@ -35,7 +35,7 @@ const Navbar = () => {
               <li>
                 <NavLink
                   to="/blogs"
-                  className="font-semibold text-gray-400 p-2 sm:px-3 sm:py-2 rounded-lg hover:text-gray-500 hover:bg-gray-200 transition-all"
+                  className="font-semibold text-[#444444]  p-2 sm:px-3 sm:py-2 rounded-lg hover:bg-[#333333] transition-all"
                 >
                   Blogs
                 </NavLink>
@@ -44,7 +44,7 @@ const Navbar = () => {
               <li>
                 <NavLink
                   to="/about"
-                  className="font-semibold text-gray-400 p-2 sm:px-3 sm:py-2 rounded-lg hover:text-gray-500 hover:bg-gray-200 transition-all"
+                  className="font-semibold text-[#444444]  p-2 sm:px-3 sm:py-2 rounded-lg hover:bg-[#333333] transition-all"
                 >
                   About
                 </NavLink>

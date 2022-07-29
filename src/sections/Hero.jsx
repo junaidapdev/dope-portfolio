@@ -7,13 +7,13 @@ const Hero = () => {
 
 <div className="flex flex-col-reverse sm:flex-row items-start">
         <div className="flex flex-col pr-8">
-          <h1 className="font-bold text-3xl md:text-5xl tracking-tight mb-1 text-black">
+          <h1 className="font-bold text-3xl md:text-5xl tracking-tight mb-1 text-white">
             Mohammed Junaid
           </h1>
-          <h3 className="text:xl text-gray-700 mb-4">
+          <h3 className="text:xl text-[#ffffff] mb-4">
             MERN Stack Developer
           </h3>
-          <p className="text-gray-600">
+          <p className="text-[#B8B8B8]">
             I build interactive and beautiful websites with React & creates content on Twitter.
           </p>
           {/* <div>
@@ -35,33 +35,33 @@ const Hero = () => {
       </div>
 
       <div>
-        <h3 className="font-bold text-2xl md:text-4xl tracking-tight mt-12 mb-6 text-black">
+        <h3 className="font-bold text-2xl md:text-4xl tracking-tight mt-12 mb-6 text-white">
         {/* <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-6 text-black"> */}
           Projects
         </h3>
         <div className="flex flex-col gap-4">
           <div className="p-1  rounded-lg">
-            <div className="p-6 gap-4 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
+            <div className="p-6 gap-4 max-w-2xl items-center bg-[#101010] rounded-lg border border-white">
               <a href="#">
-                <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">
+                <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">
                   CampGenie🔥
                 </h5>
               </a>
-              <p className="mb-3 font-normal">
+              <p className="mb-3 font-normal text-[#b8b8b8]">
                 Here are the biggest enterprise technology acquisitions of 2021
                 so far, in reverse chronological order.
               </p>
               <div className="flex flex-wrap gap-1.5">
-                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   Bootstrap
                 </span>
-                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                <span className="text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   ExpressJS
                 </span>
-                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                <span className="text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   NodeJS
                 </span>
-                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                <span className="text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   MongoDB
                 </span>
                 
@@ -69,13 +69,13 @@ const Hero = () => {
               <div className="flex gap-3 mt-4">
                 <a
                   href="#"
-                  className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-gray-900 bg-white  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#000]"
+                  className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
                 >
                  🚀 Website 
                 </a>
                 <a
                   href="https://github.com/junaidapdev/camp_genie"
-                  className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-gray-900 bg-white  rounded-lg hover:border-[#000]"
+                  className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
                 >
                   🔗 Github 
                 </a>
@@ -83,33 +83,33 @@ const Hero = () => {
             </div>
           </div>
           <div className="p-1 rounded-lg">
-            <div className="p-6 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
+          <div className="p-6 gap-4 max-w-2xl items-center bg-[#101010] rounded-lg border border-white">
               <a href="#">
-                <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">
+              <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">
                   Smuffy
                 </h5>
               </a>
-              <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
+              <p className="mb-3 font-normal text-[#b8b8b8]">
                 Here are the biggest enterprise technology acquisitions of 2021
                 so far, in reverse chronological order.
               </p>
               <div className="flex flex-wrap gap-1.5">
-              <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+              <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   React
                 </span>
-                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   Express
                 </span>
-                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   Node
                 </span>
-                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   MongoDB
                 </span>
-                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   Stripe 
                 </span>
-                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   PayPal 
                 </span>
                 
@@ -117,13 +117,13 @@ const Hero = () => {
               <div className="flex gap-3 mt-4">
               <a
                   href="#"
-                  className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-gray-900 bg-white  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#000]"
+                  className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
                 >
                  🚀 Website 
                 </a>
                 <a
                   href="https://github.com/junaidapdev/ecommerce"
-                  className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-gray-900 bg-white  rounded-lg hover:border-[#000]"
+                  className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
                 >
                   🔗 Github 
                 </a>
@@ -131,26 +131,26 @@ const Hero = () => {
             </div>
           </div>
           <div className="p-1 rounded-lg">
-            <div className="p-6 max-w-2xl items-center bg-white rounded-lg border border-gray-700">
+          <div className="p-6 gap-4 max-w-2xl items-center bg-[#101010] rounded-lg border border-white">
               <a href="#">
-                <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">
+              <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">
                   Workout Buddy
                 </h5>
               </a>
-              <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
+              <p className="mb-3 font-normal text-[#b8b8b8]">
                 This is a website to add different workouts.
               </p>
               <div className="flex flex-wrap gap-1.5">
-              <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+              <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   React
                 </span>
-                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   Express
                 </span>
-                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   Node
                 </span>
-                <span className="border border-black text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   MongoDB
                 </span>
               
@@ -159,13 +159,13 @@ const Hero = () => {
               <div className="flex gap-3 mt-4">
               <a
                   href="#"
-                  className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-gray-900 bg-white  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#000]"
+                  className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
                 >
                  🚀 Website 
                 </a>
                 <a
                   href="https://github.com/junaidapdev/Workout-Buddy"
-                  className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-gray-900 bg-white  rounded-lg hover:border-[#000]"
+                  className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
                 >
                   🔗 Github 
                 </a>
@@ -175,10 +175,10 @@ const Hero = () => {
          
           
         </div>
-        <p className="md:text-2xl mt-8 justify-center	text-lg flex text-gray-600">
+        <p className="md:text-2xl mt-8 justify-center	text-lg flex text-white">
         If you'd like to talk, just shoot an email
       </p>
-      <div className="text-lg flex items-center justify-center w-max mx-auto px-10 my-4 font-semibold border-2 text-gray-500 bg-white- p-1 rounded-xl">
+      <div className="text-lg flex items-center justify-center w-max mx-auto px-10 my-4 font-semibold border-2 text-[#101010] bg-white p-1 rounded-xl">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           className="h-6 w-6"
@@ -200,7 +200,7 @@ const Hero = () => {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          className="text-gray-600 p-2 sm:px-3 sm:py-2 rounded-lg hover:text-gray-500 hover:bg-gray-200 transition-all px-4 py-2 m-2 text-lg font-semibold"
+          className="text-white p-2 sm:px-3 sm:py-2 rounded-lg  hover:text-gray-500 hover:bg-gray-200 transition-all px-4 py-2 m-2 text-lg font-semibold"
           href="https://twitter.com/mdjunaidap"
         >
           Twitter
@@ -208,7 +208,7 @@ const Hero = () => {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          className="text-gray-600 p-2 sm:px-3 sm:py-2 rounded-lg hover:text-gray-500 hover:bg-gray-200 transition-all px-4 py-2 m-2 text-lg font-semibold"
+          className="text-white p-2 sm:px-3 sm:py-2 rounded-lg hover:text-gray-500 hover:bg-gray-200 transition-all px-4 py-2 m-2 text-lg font-semibold"
           href="https://twitter.com/mdjunaidap"
         >
           LinkedIn
@@ -216,7 +216,7 @@ const Hero = () => {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          className="text-gray-600 p-2 sm:px-3 sm:py-2 rounded-lg hover:text-gray-500 hover:bg-gray-200 transition-all px-4 py-2 m-2 text-lg font-semibold"
+          className="text-white p-2 sm:px-3 sm:py-2 rounded-lg hover:text-gray-500 hover:bg-gray-200 transition-all px-4 py-2 m-2 text-lg font-semibold"
           href="https://twitter.com/mdjunaidap"
         >
           Github
