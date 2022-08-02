@@ -41,14 +41,14 @@ const Navbar = () => {
                 </NavLink>
               </li>
 
-              <li>
+              {/* <li>
                 <NavLink
                   to="/about"
                   className="font-semibold text-[#999999]  p-2 sm:px-3 sm:py-2 rounded-lg hover:bg-[#333333] transition-all"
                 >
                   About
                 </NavLink>
-              </li> 
+              </li>  */}
             </ul>
           {/* </div> */}
         </div>
