@@ -14,7 +14,7 @@ const Hero = () => {
             MERN Stack Developer
           </h3>
           <p className="text-[#B8B8B8]">
-            I build interactive and beautiful websites with React & creates content on Twitter.
+          I build amazing, interactive websites and publish content to Twitter.
           </p>
           {/* <div>
             <Buttons className="bg-gray-600 gap-2 text-white px-6 ml-0">
@@ -48,8 +48,7 @@ const Hero = () => {
                 </h5>
               </a>
               <p className="mb-3 font-normal text-[#b8b8b8]">
-                Here are the biggest enterprise technology acquisitions of 2021
-                so far, in reverse chronological order.
+                A website to locate and view map of campgrounds around the globe.
               </p>
               <div className="flex flex-wrap gap-1.5">
                 <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
@@ -67,12 +66,12 @@ const Hero = () => {
                 
               </div>
               <div className="flex gap-3 mt-4">
-                <a
+                {/* <a
                   href="#"
                   className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
                 >
                  🚀 Website 
-                </a>
+                </a> */}
                 <a
                   href="https://github.com/junaidapdev/camp_genie"
                   className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
@@ -90,8 +89,7 @@ const Hero = () => {
                 </h5>
               </a>
               <p className="mb-3 font-normal text-[#b8b8b8]">
-                Here are the biggest enterprise technology acquisitions of 2021
-                so far, in reverse chronological order.
+                A Ecommerce store to purchase different types of Surf Boards.
               </p>
               <div className="flex flex-wrap gap-1.5">
               <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
@@ -115,12 +113,12 @@ const Hero = () => {
                 
               </div>
               <div className="flex gap-3 mt-4">
-              <a
+              {/* <a
                   href="#"
                   className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
                 >
                  🚀 Website 
-                </a>
+                </a> */}
                 <a
                   href="https://github.com/junaidapdev/ecommerce"
                   className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
@@ -157,12 +155,12 @@ const Hero = () => {
                 
               </div>
               <div className="flex gap-3 mt-4">
-              <a
+              {/* <a
                   href="#"
                   className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
                 >
                  🚀 Website 
-                </a>
+                </a> */}
                 <a
                   href="https://github.com/junaidapdev/Workout-Buddy"
                   className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
