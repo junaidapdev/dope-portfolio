@@ -11,10 +11,10 @@ const Hero = () => {
             Mohammed Junaid
           </h1>
           <h3 className="text:xl text-[#ffffff] mb-4">
-            MERN Stack Developer
+            Developer.
           </h3>
           <p className="text-[#B8B8B8]">
-          I build amazing, interactive websites and publish content to Twitter.
+          I do Web stuff, mostly frontend. Creates content on twitter, has 62k followers on twitter, and building codemarch, have over 40k followers on twitter.
           </p>
           {/* <div>
             <Buttons className="bg-gray-600 gap-2 text-white px-6 ml-0">
@@ -44,25 +44,26 @@ const Hero = () => {
             <div className="p-6 gap-4 max-w-2xl items-center bg-[#101010] rounded-lg border border-white">
               <a href="#">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">
-                  CampGenie🔥
+                  Home-hub
                 </h5>
               </a>
               <p className="mb-3 font-normal text-[#b8b8b8]">
-                A website to locate and view map of campgrounds around the globe.
+                A website to sell & rent your houses.
               </p>
               <div className="flex flex-wrap gap-1.5">
                 <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
-                  Bootstrap
+                  CSS
                 </span>
                 <span className="text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
-                  ExpressJS
+                  React
                 </span>
                 <span className="text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
-                  NodeJS
+                  Firebase
                 </span>
                 <span className="text-black-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
-                  MongoDB
+                  Geolocation
                 </span>
+      
                 
               </div>
               <div className="flex gap-3 mt-4">
@@ -73,7 +74,7 @@ const Hero = () => {
                  🚀 Website 
                 </a> */}
                 <a
-                  href="https://github.com/junaidapdev/camp_genie"
+                  href="https://github.com/junaidapdev/home-hub"
                   className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
                 >
                   🔗 Github 
@@ -85,31 +86,20 @@ const Hero = () => {
           <div className="p-6 gap-4 max-w-2xl items-center bg-[#101010] rounded-lg border border-white">
               <a href="#">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">
-                  Smuffy
+                  Feedback-Frenzy 
                 </h5>
               </a>
               <p className="mb-3 font-normal text-[#b8b8b8]">
-                A Ecommerce store to purchase different types of Surf Boards.
+                Give feedback & add ratings.
               </p>
               <div className="flex flex-wrap gap-1.5">
               <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                  CSS
+                </span>
+                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   React
                 </span>
-                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
-                  Express
-                </span>
-                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
-                  Node
-                </span>
-                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
-                  MongoDB
-                </span>
-                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
-                  Stripe 
-                </span>
-                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
-                  PayPal 
-                </span>
+            
                 
               </div>
               <div className="flex gap-3 mt-4">
@@ -120,7 +110,7 @@ const Hero = () => {
                  🚀 Website 
                 </a> */}
                 <a
-                  href="https://github.com/junaidapdev/ecommerce"
+                  href="https://github.com/junaidapdev/feedback-frenzy"
                   className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
                 >
                   🔗 Github 
@@ -132,25 +122,23 @@ const Hero = () => {
           <div className="p-6 gap-4 max-w-2xl items-center bg-[#101010] rounded-lg border border-white">
               <a href="#">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">
-                  Workout Buddy
+                  Github Findo
                 </h5>
               </a>
               <p className="mb-3 font-normal text-[#b8b8b8]">
-                This is a website to add different workouts.
+              Get your Github profile quickly.
               </p>
               <div className="flex flex-wrap gap-1.5">
               <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
                   React
                 </span>
                 <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
-                  Express
+                  Github API
                 </span>
                 <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
-                  Node
+                  Tailwind
                 </span>
-                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
-                  MongoDB
-                </span>
+                
               
                 
               </div>
