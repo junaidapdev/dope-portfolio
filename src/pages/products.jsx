@@ -87,7 +87,7 @@ const Products = () => {
                 $3
               </h1>
               <a
-                href="mdjunaidap.gumroad.com/l/kEZkq"
+                href="https://mdjunaidap.notion.site/Goldmine-For-Developers-Designers-Creators-38e53342df6c406a88272aba1a346e93"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -172,7 +172,7 @@ const Products = () => {
                 Free
               </h1>
               <a
-                href="mdjunaidap.gumroad.com/l/fullstack-dev-roadmap"
+                href="https://www.notion.so/mdjunaidap/Clear-Cut-Full-Stack-Developer-Roadmap-2021-300-Resources-8b832a1548d04bcba345c38d3e59a5c9"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -258,7 +258,7 @@ const Products = () => {
                 Free
               </h1>
               <a
-                href="mdjunaidap.gumroad.com/l/qnzyd"
+                href="https://www.notion.so/mdjunaidap/a5b2921835db4b139d5f02dcde2620e6?v=d9361f549e8d4ea4875904ba5de03dd0"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -341,7 +341,7 @@ const Products = () => {
                 Free
               </h1>
               <a
-                href="mdjunaidap.gumroad.com/l/ybewl"
+                href="https://www.notion.so/mdjunaidap/Learn-JavaScript-for-Free-cfac47385d1f4f1d97911273becac93b"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -428,7 +428,7 @@ const Products = () => {
                 Free
               </h1>
               <a
-                href="mdjunaidap.gumroad.com/l/fdqbzi"
+                href="https://www.notion.so/mdjunaidap/72ff307b53414487b1c90fe378c734ca?v=335dd4a12ec5444ab1db2917301bdf98"
                 target="_blank"
                 rel="noopener noreferrer"
               >
