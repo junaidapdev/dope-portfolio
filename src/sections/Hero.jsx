@@ -218,7 +218,7 @@ const Hero = () => {
             target="_blank"
             rel="noopener noreferrer"
             className="text-white p-2 sm:px-3 sm:py-2 rounded-lg hover:text-gray-500 hover:bg-gray-200 transition-all px-4 py-2 m-2 text-lg font-semibold"
-            href="https://twitter.com/mdjunaidap"
+            href="https://www.linkedin.com/in/mohammed-junaid-228b5319a/"
           >
             LinkedIn
           </a>
@@ -226,7 +226,7 @@ const Hero = () => {
             target="_blank"
             rel="noopener noreferrer"
             className="text-white p-2 sm:px-3 sm:py-2 rounded-lg hover:text-gray-500 hover:bg-gray-200 transition-all px-4 py-2 m-2 text-lg font-semibold"
-            href="https://twitter.com/mdjunaidap"
+            href="https://github.com/junaidapdev"
           >
             Github
           </a>
