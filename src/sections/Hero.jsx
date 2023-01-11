@@ -56,12 +56,12 @@ const Hero = () => {
                 </span>
               </div>
               <div className="flex gap-3 mt-4">
-                {/* <a
-                  href="#"
+                <a
+                  href="https://examkit.netlify.app/"
                   className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
                 >
                  🚀 Website 
-                </a> */}
+                </a>
                 <a
                   href="https://examkit.netlify.app/"
                   className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
@@ -75,7 +75,7 @@ const Hero = () => {
             <div className="p-6 gap-4 max-w-2xl items-center bg-[#101010] rounded-lg border border-white">
               <a href="#">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">
-                  Home-hub
+                  HomeHub
                 </h5>
               </a>
               <p className="mb-3 font-normal text-[#b8b8b8]">
@@ -90,12 +90,12 @@ const Hero = () => {
                 </span>
               </div>
               <div className="flex gap-3 mt-4">
-                {/* <a
-                  href="#"
+                <a
+                  href="https://home-hub-six.vercel.app/"
                   className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
                 >
                  🚀 Website 
-                </a> */}
+                </a>
                 <a
                   href="https://github.com/junaidapdev/home-hub"
                   className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
@@ -125,17 +125,17 @@ const Hero = () => {
                 </span>
               </div>
               <div className="flex gap-3 mt-4">
-                {/* <a
-                  href="#"
-                  className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
-                >
-                 🚀 Website 
-                </a> */}
                 <a
                   href="https://www.mohammedjunaid.in/"
                   className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
                 >
-                  🔗 Live
+                 🚀 Website 
+                </a>
+                <a
+                  href="https://github.com/junaidapdev/dope-portfolio/"
+                  className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
+                >
+                  🔗 Github
                 </a>
               </div>
             </div>
@@ -144,41 +144,30 @@ const Hero = () => {
             <div className="p-6 gap-4 max-w-2xl items-center bg-[#101010] rounded-lg border border-white">
               <a href="#">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">
-                  CampGenie
+                30 Days CodeCamp
                 </h5>
               </a>
               <p className="mb-3 font-normal text-[#b8b8b8]">
-              Campground finder for tourists
+              A Cohort-Based Course for Aspiring Developers
               </p>
               <div className="flex flex-wrap gap-1.5">
-                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
-                  CSS
-                </span>
-                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
-                  Bootstrap
-                </span>
-                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
-                  MapBox API
-                </span>
-                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
-                  NodeJS
-                </span>
-                <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
-                  MongoDB
-                </span>
+                {/* <span className="text-[#ffffff] text-xs font-medium mr-2 px-2.5 py-0.5 rounded ">
+                  Learn HTML, CSS, Tailwind & Git with daily support
+                </span> */}
+                
               </div>
               <div className="flex gap-3 mt-4">
-                {/* <a
-                  href="#"
-                  className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
-                >
-                 🚀 Website 
-                </a> */}
                 <a
-                  href="https://github.com/junaidapdev/home-hub"
+                  href="https://codemarch.gumroad.com/l/lzdwp"
                   className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
                 >
-                  🔗 Github
+                 🚀 Landing Page 
+                </a>
+                <a
+                  href="https://mdjunaidap.notion.site/30-Days-Code-Camp-Syllabus-33be11e332374e59a06d892a2b29cf04"
+                  className="inline-flex items-center border py-2 px-3 text-sm font-small text-center text-white bg-[#101010]  rounded-lg focus:ring-4 focus:outline-none focus:ring-blue-300 hover:border-[#b8b8b8]"
+                >
+                  🔗 Content
                 </a>
               </div>
             </div>
